@@ -11,7 +11,7 @@ from tkinter import scrolledtext
 
 # CLU 
 endpoint = "https://iot-language-understanding.cognitiveservices.azure.com/"
-api_key = "3l8oXDHMkf5qFUREWrRTGwoWygb2D1dWSMMJrex0UrtQ37ibYevbJQQJ99BEACYeBjFXJ3w3AAAaACOGFpoI"
+api_key = "**********************************************************************"
 project = "smart-timer"
 deployment = "version3"
 language = "en"
